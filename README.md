@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- [About me](https://viniciumelo.com.br/) ✍🏼 - I'm write about many things.
+- [About me](https://viniciumelo.com.br/) ✍🏼 - A little about my work.
 - [Website](https://www.bluetdah.com.br/) 💻 - Working on it.
 <!--
 **viniciumelo/viniciumelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
