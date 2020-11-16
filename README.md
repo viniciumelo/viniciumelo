@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Vinicius! 👋
 
 
 - [About me](https://viniciumelo.com.br/) ✍🏼 - A little about my work.
