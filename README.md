@@ -1,4 +1,4 @@
-[My image](https://viniciumelo.com.br/public/site/images/45.jpg?raw=true)
+(https://viniciumelo.com.br/public/site/images/45.jpg?raw=true)
 ### Hi, I'm Vinicius! 👋
 
 
