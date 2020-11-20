@@ -3,7 +3,7 @@
 
 
 - [About me](https://viniciumelo.com.br/) ✍🏼 - A little about my work.
-- [Website](https://www.bluetdah.com.br/) 💻 - Working on it.
+- [Bluetdah](https://www.bluetdah.com.br/) 💻 - Working on it.
 <!--
 **viniciumelo/viniciumelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
