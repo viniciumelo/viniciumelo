@@ -1,4 +1,4 @@
-![alt text](https://viniciumelo.com.br/public/site/images/46.jpg?raw=true)
+![alt text](https://viniciumelo.com.br/public/site/images/46.png?raw=true)
 ### Hi, I'm Vinicius! 👋
 
 
