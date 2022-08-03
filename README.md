@@ -1,4 +1,4 @@
-![alt text](https://viniciumelo.com.br/public/site/images/46.png?raw=true)
+![alt text](https://github.com/viniciumelo/viniciumelo/blob/main/36488227_2199614193387521_1717933630740758528_n.jpg?raw=true)
 ### Hi, I'm Vinicius! 👋
 
 
