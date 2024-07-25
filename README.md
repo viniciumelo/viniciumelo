@@ -1,6 +1,7 @@
 ![alt text](https://github.com/viniciumelo/viniciumelo/blob/main/36488227_2199614193387521_1717933630740758528_n.jpg?raw=true)
 ### Hi, I'm Vinicius! 👋
-
+🇧🇷
+Computer scientist, researcher on ADHD and VR, and writer about games.
 
 - [About me](https://viniciumelo.com.br/) ✍🏼 - A little about my work.
 - [Bluetdah](https://www.bluetdah.com.br/) 💻 - Working on it.
