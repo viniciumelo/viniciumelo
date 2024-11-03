@@ -1,8 +1,12 @@
+<div align="center">
+  <img src="https://github.com/viniciumelo/viniciumelo/blob/main/36488227_2199614193387521_1717933630740758528_n.jpg?raw=true" alt="alt text">
+</div>
 ### Hi, I'm Vinicius! 👋
-
+🇧🇷
+Computer scientist, researcher on ADHD and VR, and writer about games.
 
 - [About me](https://viniciumelo.com.br/) ✍🏼 - A little about my work.
-- [Website](https://www.bluetdah.com.br/) 💻 - Working on it.
+- [Bluetdah](https://www.bluetdah.com.br/) 💻 - Working on it.
 <!--
 **viniciumelo/viniciumelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
