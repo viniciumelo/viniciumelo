@@ -3,7 +3,7 @@
 </div>
 Hi, I'm Vinicius! 👋
 🇧🇷
-Computer scientist, researcher on ADHD and VR, and writer about games.
+### Computer scientist, researcher on ADHD and VR, and writer about games.
 - ⚡ Fun fact: I worked as a carpenter from age 12 to 18.
 - [About me](https://viniciumelo.com.br/) ✍🏼 - A little about my work.
 - [Bluee](https://www.bluee.net.br/) 💻 - Working on it.
