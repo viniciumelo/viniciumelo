@@ -13,6 +13,10 @@ Computer scientist, researcher on ADHD and VR, and writer about games.
 - [Bluetdah](https://www.bluetdah.com.br/) 🕶️ - My virtual reality project for behavior analysis and play therapy for children with ADHD.
 
 - ⚡ Fun fact: I worked as a carpenter from age 12 to 18.
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">   <a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
 <!--
 **viniciumelo/viniciumelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
