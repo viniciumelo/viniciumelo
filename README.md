@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/viniciumelo/viniciumelo/blob/main/pitch-demoday.jpg?raw=true" alt="Presentation Pitch Demoday Bluee">
 </div>
-### Hi, I'm Vinicius! 👋
+# Hi, I'm Vinicius! 👋
 🇧🇷
 Computer scientist, researcher on ADHD and VR, and writer about games.
 
