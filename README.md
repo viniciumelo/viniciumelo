@@ -6,7 +6,7 @@
 Computer scientist, researcher on ADHD and VR, and writer about games.
 
 - [About me](https://viniciumelo.com.br/) ✍🏼 - A little about my work.
-- [Bluetdah](https://www.bluetdah.com.br/) 💻 - Working on it.
+- [Bluee](https://www.bluee.net.br/) 💻 - Working on it.
 <!--
 **viniciumelo/viniciumelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
