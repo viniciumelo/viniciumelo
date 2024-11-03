@@ -1,4 +1,6 @@
-![alt text](https://github.com/viniciumelo/viniciumelo/blob/main/36488227_2199614193387521_1717933630740758528_n.jpg?raw=true)
+<div align="center">
+  <img src="https://github.com/viniciumelo/viniciumelo/blob/main/36488227_2199614193387521_1717933630740758528_n.jpg?raw=true" alt="alt text">
+</div>
 ### Hi, I'm Vinicius! 👋
 🇧🇷
 Computer scientist, researcher on ADHD and VR, and writer about games.
