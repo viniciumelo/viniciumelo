@@ -10,6 +10,7 @@ Computer scientist, researcher on ADHD and VR, and writer about games.
 <div align="center">
   <img src="https://github.com/viniciumelo/viniciumelo/blob/main/36488227_2199614193387521_1717933630740758528_n.jpg?raw=true" alt="Bluetdah Exhibit at Campus Party">
 </div>
+
 - [Bluetdah](https://www.bluetdah.com.br/) 🕶️ - My virtual reality project for behavior analysis and play therapy for children with ADHD.
 
 - ⚡ Fun fact: I worked as a carpenter from age 12 to 18.
